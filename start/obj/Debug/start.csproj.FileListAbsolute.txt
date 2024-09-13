@@ -1,0 +1,15 @@
+C:\Users\duldul\source\repos\start\obj\Debug\start.csproj.AssemblyReference.cache
+C:\Users\duldul\source\repos\start\obj\Debug\start.Properties.Resources.resources
+C:\Users\duldul\source\repos\start\obj\Debug\start.csproj.GenerateResource.cache
+C:\Users\duldul\source\repos\start\obj\Debug\start.csproj.CoreCompileInputs.cache
+C:\Users\duldul\source\repos\start\bin\Debug\start.exe.config
+C:\Users\duldul\source\repos\start\bin\Debug\start.exe
+C:\Users\duldul\source\repos\start\bin\Debug\start.pdb
+C:\Users\duldul\source\repos\start\obj\Debug\start.exe
+C:\Users\duldul\source\repos\start\obj\Debug\start.pdb
+C:\Users\duldul\source\repos\start\obj\Debug\start.kayit.resources
+C:\Users\duldul\source\repos\start\obj\Debug\start.anasayfa.resources
+C:\Users\duldul\source\repos\start\obj\Debug\start.doktor.resources
+C:\Users\duldul\source\repos\start\obj\Debug\start.giris.resources
+C:\Users\duldul\source\repos\start\obj\Debug\start.hasta.resources
+C:\Users\duldul\source\repos\start\obj\Debug\start.refakatci.resources

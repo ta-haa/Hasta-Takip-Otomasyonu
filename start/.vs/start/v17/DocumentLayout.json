@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\duldul\\source\\repos\\start\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|c:\\users\\duldul\\source\\repos\\start\\refakatci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|solutionrelative:refakatci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|C:\\Users\\duldul\\source\\repos\\start\\refakatci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|solutionrelative:refakatci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|C:\\Users\\duldul\\source\\repos\\start\\baglan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|solutionrelative:baglan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|C:\\Users\\duldul\\source\\repos\\start\\kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|solutionrelative:kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|C:\\Users\\duldul\\source\\repos\\start\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|solutionrelative:hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|C:\\Users\\duldul\\source\\repos\\start\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|solutionrelative:hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|C:\\Users\\duldul\\source\\repos\\start\\doktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|solutionrelative:doktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|C:\\Users\\duldul\\source\\repos\\start\\doktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|solutionrelative:doktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|C:\\Users\\duldul\\source\\repos\\start\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|solutionrelative:anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|C:\\Users\\duldul\\source\\repos\\start\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|solutionrelative:anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|C:\\Users\\duldul\\source\\repos\\start\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|solutionrelative:giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|C:\\Users\\duldul\\source\\repos\\start\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|solutionrelative:giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|C:\\Users\\duldul\\source\\repos\\start\\kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5EEA1F-D2F7-4CCD-9184-4F86D2C947BC}|start.csproj|solutionrelative:kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "doktor.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\source\\repos\\start\\doktor.cs",
+              "RelativeDocumentMoniker": "doktor.cs",
+              "ToolTip": "C:\\Users\\duldul\\source\\repos\\start\\doktor.cs",
+              "RelativeToolTip": "doktor.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAAAIwOgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:08:36.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "doktor.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\duldul\\source\\repos\\start\\doktor.cs",
+              "RelativeDocumentMoniker": "doktor.cs",
+              "ToolTip": "C:\\Users\\duldul\\source\\repos\\start\\doktor.cs [Tasar\u0131m]",
+              "RelativeToolTip": "doktor.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:22:38.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hasta.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\duldul\\source\\repos\\start\\hasta.cs",
+              "RelativeDocumentMoniker": "hasta.cs",
+              "ToolTip": "C:\\Users\\duldul\\source\\repos\\start\\hasta.cs [Tasar\u0131m]",
+              "RelativeToolTip": "hasta.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:22:08.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "hasta.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\source\\repos\\start\\hasta.cs",
+              "RelativeDocumentMoniker": "hasta.cs",
+              "ToolTip": "C:\\Users\\duldul\\source\\repos\\start\\hasta.cs",
+              "RelativeToolTip": "hasta.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAIwJwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:12:21.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "refakatci.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\duldul\\source\\repos\\start\\refakatci.cs",
+              "RelativeDocumentMoniker": "refakatci.cs",
+              "ToolTip": "C:\\Users\\duldul\\source\\repos\\start\\refakatci.cs [Tasar\u0131m]",
+              "RelativeToolTip": "refakatci.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:45:44.651Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "refakatci.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\source\\repos\\start\\refakatci.cs",
+              "RelativeDocumentMoniker": "refakatci.cs",
+              "ToolTip": "C:\\Users\\duldul\\source\\repos\\start\\refakatci.cs",
+              "RelativeToolTip": "refakatci.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAA/wFYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:36:59.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "baglan.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\source\\repos\\start\\baglan.cs",
+              "RelativeDocumentMoniker": "baglan.cs",
+              "ToolTip": "C:\\Users\\duldul\\source\\repos\\start\\baglan.cs",
+              "RelativeToolTip": "baglan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:32:54.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kayit.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\duldul\\source\\repos\\start\\kayit.cs",
+              "RelativeDocumentMoniker": "kayit.cs",
+              "ToolTip": "C:\\Users\\duldul\\source\\repos\\start\\kayit.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kayit.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:15:25.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "anasayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\duldul\\source\\repos\\start\\anasayfa.cs",
+              "RelativeDocumentMoniker": "anasayfa.cs",
+              "ToolTip": "C:\\Users\\duldul\\source\\repos\\start\\anasayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "anasayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:20:15.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "anasayfa.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\source\\repos\\start\\anasayfa.cs",
+              "RelativeDocumentMoniker": "anasayfa.cs",
+              "ToolTip": "C:\\Users\\duldul\\source\\repos\\start\\anasayfa.cs",
+              "RelativeToolTip": "anasayfa.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAwwFgAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:22:48.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "giris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\duldul\\source\\repos\\start\\giris.cs",
+              "RelativeDocumentMoniker": "giris.cs",
+              "ToolTip": "C:\\Users\\duldul\\source\\repos\\start\\giris.cs [Design]",
+              "RelativeToolTip": "giris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:21:08.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "giris.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\source\\repos\\start\\giris.cs",
+              "RelativeDocumentMoniker": "giris.cs",
+              "ToolTip": "C:\\Users\\duldul\\source\\repos\\start\\giris.cs",
+              "RelativeToolTip": "giris.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAADwv2MAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:22:35.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "kayit.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\source\\repos\\start\\kayit.cs",
+              "RelativeDocumentMoniker": "kayit.cs",
+              "ToolTip": "C:\\Users\\duldul\\source\\repos\\start\\kayit.cs",
+              "RelativeToolTip": "kayit.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwEwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:21:13.286Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
